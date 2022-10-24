@@ -38,7 +38,7 @@ while True:
 
     continuation = int(input('\nПродолжаем? 1 - Да, 2 - Нет : '))
     if continuation == 2:
-        print('Выход')
+        print('Выход \nДо новых встреч')
         break
 
-#test git
+# test git
