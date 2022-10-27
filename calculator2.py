@@ -12,7 +12,7 @@ while True:
         else:
             print("Ошибка: такой операции не существует. Попробуйте ещё раз.")
 
-    quantity = int(input('\nСколько чисел в операции? '))
+    quantity = int(input('\nКоличество чисел: '))
     print('\nВведите число № 1: ', end='')
     numb = int(input(''))
     result = numb
