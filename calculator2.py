@@ -10,7 +10,7 @@ while True:
         elif operations in '/':
             break
         else:
-            print("Ошибка: такой операции не существует. Попробуйте ещё раз.")
+            print("Ошибка: такой операции не существует.")
 
     quantity = int(input('\nКоличество чисел: '))
     print('\nВведите число № 1: ', end='')
